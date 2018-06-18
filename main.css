@@ -1,0 +1,35 @@
+body {
+  background: url(images/bg1.jpg) no-repeat 50% 50% fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#intro {
+
+font-size: 12px;
+font-family: "Apercu Mono", monospace;
+text-align: left;
+text-indent: 50px;
+padding: 25px;
+}
+
+#header1{
+font-family: "Apercu Mono", monospace;
+padding-top: 25px;
+}
+
+#aboutH1{
+font-family: "Apercu Mono", monospace;
+padding-top: 25px;
+text-align: center;
+background: url(images/mona.jpg) no-repeat 50% 50% fixed;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
